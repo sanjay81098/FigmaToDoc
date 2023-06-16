@@ -1,0 +1,6 @@
+python-doctr
+rapidfuzz==2.15.1
+torch
+torchvision
+urllib3==1.26.6
+weasyprint
